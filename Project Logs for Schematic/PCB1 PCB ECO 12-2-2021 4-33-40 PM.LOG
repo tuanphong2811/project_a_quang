@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BAT+ Pin=D5-1
+Removed Pin From Net: NetName=VBAT Pin=D5-2
+Removed Pin From Net: NetName=VBAT Pin=Q1-2
+Removed Pin From Net: NetName=BAT Pin=Q1-3
+Removed Member From Class: ClassName=PSU - BUCK, LDO, CHARGER Member=D5
+Removed Member From Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Q2
+Change Component Footprint: Designator=Q1 Old Footprint=D2PAK New Footprint=IRF4905s
+Change Component Comment : Designator=Q3 Old Comment=IRF9540 DIP New Comment=IRF4905S ADM
+Added Pin To Net: NetName=VBAT Pin=Q1-3

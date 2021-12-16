@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Q1 Old Footprint=IRF4905s New Footprint=DPAK254P1511X469-3N
+Added Pin To Net: NetName=VIN_SIM Pin=Q1-2

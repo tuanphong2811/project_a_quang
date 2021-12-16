@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=MCU_3V3 Pin=TP1-1
+Removed Pin From Net: NetName=BAT+ Pin=TP2-1
+Removed Pin From Net: NetName=AD0 Pin=TP3-1
+Removed Pin From Net: NetName=AD0 Pin=TP4-1
+Removed Pin From Net: NetName=VBAT Pin=TP5-1
+Removed Pin From Net: NetName=+VIN Pin=TP6-1
+Removed Pin From Net: NetName=MCU_3V3 Pin=TP7-1
+Removed Pin From Net: NetName=BAT+ Pin=TP8-1
+Removed Pin From Net: NetName=GPS_3V3 Pin=TP9-1
+Removed Pin From Net: NetName=AD0 Pin=TP10-1
+Added Component: Designator=PT1(Test pont)
+Added Component: Designator=PT2(Test pont)
+Added Component: Designator=PT3(Test pont)
+Added Component: Designator=PT4(Test pont)
+Added Component: Designator=PT5(Test pont)
+Added Component: Designator=PT6(Test pont)
+Added Component: Designator=PT7(Test pont)
+Added Component: Designator=PT8(Test pont)
+Added Component: Designator=PT9(Test pont)
+Added Component: Designator=PT10(Test pont)
+Added Pin To Net: NetName=MCU_3V3 Pin=PT1-1
+Added Pin To Net: NetName=BAT+ Pin=PT2-1
+Added Pin To Net: NetName=AD0 Pin=PT3-1
+Added Pin To Net: NetName=AD0 Pin=PT4-1
+Added Pin To Net: NetName=VBAT Pin=PT5-1
+Added Pin To Net: NetName=+VIN Pin=PT6-1
+Added Pin To Net: NetName=MCU_3V3 Pin=PT7-1
+Added Pin To Net: NetName=BAT+ Pin=PT8-1
+Added Pin To Net: NetName=GPS_3V3 Pin=PT9-1
+Added Pin To Net: NetName=AD0 Pin=PT10-1
+Added Member To Class: ClassName=LTE,GPS Member=Component PT1 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT2 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT3 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT4 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT5 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT6 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT7 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT8 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT9 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT10 PT

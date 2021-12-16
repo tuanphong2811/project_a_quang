@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q2 Old Footprint=IRF4905s New Footprint=DPAK254P1511X469-3N
+Change Component Comment : Designator=Q2 Old Comment=IRF4905S ADM New Comment=IRF9540 DIP
+Added Pin To Net: NetName=BAT+ Pin=PT2-1
+Added Pin To Net: NetName=BAT+ Pin=Q2-2

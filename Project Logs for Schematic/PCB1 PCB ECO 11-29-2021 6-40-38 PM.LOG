@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GPS_MCU_RX Pin=R27-2
+Removed Pin From Net: NetName=GPS_MCU_TX Pin=R28-2
+Removed Pin From Net: NetName=LTE_MCU_TX Pin=R29-2
+Removed Pin From Net: NetName=LTE_MCU_RX Pin=R31-2
+Removed Member From Class: ClassName=Sheet1 Member=C20
+Removed Member From Class: ClassName=Sheet3 Member=C31
+Removed Member From Class: ClassName=Sheet3 Member=Q3
+Removed Member From Class: ClassName=Sheet3 Member=R25
+Removed Member From Class: ClassName=Sheet3 Member=R26
+Removed Member From Class: ClassName=Sheet3 Member=R27
+Removed Member From Class: ClassName=Sheet3 Member=R28
+Removed Member From Class: ClassName=Sheet3 Member=R29
+Removed Member From Class: ClassName=Sheet3 Member=R31
+Removed Member From Class: ClassName=Sheet3 Member=TP13
+Removed Member From Class: ClassName=Sheet3 Member=TP14
+Added Pin To Net: NetName=GPS_MCU_TX Pin=H4-1
+Added Pin To Net: NetName=GPS_MCU_RX Pin=H4-2
+Added Pin To Net: NetName=GPS_MCU_TX Pin=JP4-2
+Added Pin To Net: NetName=GPS_MCU_RX Pin=JP4-3
+Added Pin To Net: NetName=LTE_MCU_RX Pin=U2-29
+Added Member To Class: ClassName=Sheet1 Member=Component C2 104
+Added Member To Class: ClassName=Sheet1 Member=Component C4 100uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100uF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 104
+Added Member To Class: ClassName=Sheet1 Member=Component C14 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 104
+Added Member To Class: ClassName=Sheet1 Member=Component C17 104
+Added Member To Class: ClassName=Sheet1 Member=Component C19 4.7uF
+Added Member To Class: ClassName=Sheet2 Member=Component C21 104
+Added Member To Class: ClassName=Sheet2 Member=Component C23 104
+Added Member To Class: ClassName=Sheet2 Member=Component C25 33pF
+Added Member To Class: ClassName=Sheet2 Member=Component C28 104
+Added Member To Class: ClassName=Sheet3 Member=Component C30 33pF
+Added Member To Class: ClassName=Sheet3 Member=Component JP3 JP7 PIN

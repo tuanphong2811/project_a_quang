@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MCU_3V3 Pin=TP1-1
+Removed Pin From Net: NetName=BAT+ Pin=TP2-1
+Removed Pin From Net: NetName=AD0 Pin=TP3-1
+Removed Member From Class: ClassName=LTE,GPS Member=TP1
+Removed Member From Class: ClassName=PSU - BUCK, LDO, CHARGER Member=TP2
+Removed Member From Class: ClassName=PSU - BUCK, LDO, CHARGER Member=TP3
+Change Component Designator: OldDesignator=PT1 NewDesignator=PT4
+Change Component Designator: OldDesignator=PT2 NewDesignator=PT5
+Change Component Designator: OldDesignator=PT3 NewDesignator=PT6
+Change Component Designator: OldDesignator=PT4 NewDesignator=PT7
+Change Component Designator: OldDesignator=PT5 NewDesignator=PT8
+Change Component Designator: OldDesignator=PT6 NewDesignator=PT9
+Change Component Designator: OldDesignator=PT7 NewDesignator=PT10
+Added Component: Designator=PT1(Test pont)
+Added Component: Designator=PT2(Test pont)
+Added Component: Designator=PT3(Test pont)
+Added Pin To Net: NetName=MCU_3V3 Pin=PT1-1
+Added Pin To Net: NetName=BAT+ Pin=PT2-1
+Added Pin To Net: NetName=AD0 Pin=PT3-1
+Added Member To Class: ClassName=LTE,GPS Member=Component PT1 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT8 PT
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT9 PT

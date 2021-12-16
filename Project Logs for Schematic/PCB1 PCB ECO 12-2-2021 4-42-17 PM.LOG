@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MCU_3V3 Pin=JP2-7
+Removed Pin From Net: NetName=MCU_3V3 Pin=PT1-1
+Removed Pin From Net: NetName=BAT+ Pin=PT2-1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Added Pin To Net: NetName=BAT++++ Pin=PT2-1
+Added Net: Name=BAT++++
+Added Pin To Net: NetName=VBAT_SIM Pin=JP2-7
+Added Pin To Net: NetName=VBAT_SIM Pin=PT1-1
+Added Net: Name=VBAT_SIM
+Added Pin To Net: NetName=VIN_SIM Pin=JP3-7
+Added Net: Name=VIN_SIM

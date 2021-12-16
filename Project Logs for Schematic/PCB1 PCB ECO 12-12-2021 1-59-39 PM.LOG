@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D2 Old Footprint=DIODE 1A New Footprint=SODFL504X243-2N
+Added Member To Class: ClassName=MCU Member=Component C9 33pF
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component PT8 PT
+Added Member To Class: ClassName=MCU Member=Component R7 10k
+Added Room: Name=LTE,GPS
+Added Room: Name=MCU
+Added Room: Name=PSU - BUCK, LDO, CHARGER

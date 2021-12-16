@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=PT7 NewDesignator=PT8
+Change Component Designator: OldDesignator=PT8 NewDesignator=PT7
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Pin Designator/Name:  Old Designator=JP4-2 Old Name=2 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=JP4-3 Old Name=3 New Designator =2 New Name=2

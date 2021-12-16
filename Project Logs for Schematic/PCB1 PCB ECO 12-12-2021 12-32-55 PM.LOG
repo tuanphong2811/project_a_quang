@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GPS_MCU_TX Pin=JP4-2
+Removed Pin From Net: NetName=GPS_MCU_RX Pin=JP4-3
+Removed Member From Class: ClassName=LTE,GPS Member=C13
+Removed Member From Class: ClassName=LTE,GPS Member=Q3
+Removed Member From Class: ClassName=LTE,GPS Member=R13
+Removed Member From Class: ClassName=LTE,GPS Member=R18
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=PT7 NewDesignator=PT8
+Change Component Designator: OldDesignator=PT8 NewDesignator=PT7
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Added Pin To Net: NetName=AD0 Pin=IC4-2
+Added Pin To Net: NetName=GPS_MCU_RX Pin=JP4-2
+Added Pin To Net: NetName=GPS_MCU_TX Pin=JP4-3
+Added Member To Class: ClassName=LTE,GPS Member=Component C11 104
+Added Member To Class: ClassName=LTE,GPS Member=Component C12 104
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C14 100uF
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C16 104
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C18 104
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C20 104
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C22 4.7uF
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C24 4.7uF
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C26 4.7uF
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component C28 104
+Added Member To Class: ClassName=LTE,GPS Member=Component Q1 HF
+Added Member To Class: ClassName=LTE,GPS Member=Component R9 4.7k
+Added Member To Class: ClassName=LTE,GPS Member=Component R10 10k
+Added Member To Class: ClassName=LTE,GPS Member=Component R11 220k
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component R12 220k
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component R14 1k
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component R15 10k
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component R16 10k
+Added Member To Class: ClassName=PSU - BUCK, LDO, CHARGER Member=Component R17 10k
+Added Room: Name=LTE,GPS
+Added Room: Name=MCU
+Added Room: Name=PSU - BUCK, LDO, CHARGER
